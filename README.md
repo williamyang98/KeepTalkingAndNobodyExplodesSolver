@@ -2,7 +2,9 @@
 
 Created when I watched RTGames struggle with **Keep Talking and Nobody Explodes** *(He exploded)*.
 
-Visit at: https://fiendchain.github.io/KeepTalkingAndNobodyExplodesSolver/
+Visit at: https://williamyang98.github.io/KeepTalkingAndNobodyExplodesSolver/
+
+<img width="1156" height="883" alt="image" src="https://github.com/user-attachments/assets/c5b499f9-a5c7-48a7-a067-70a2bb9bcb5f" />
 
 ## Possible improvements
 All bomb modules are functional, however the interface is considerably clunky for a few modules.
